@@ -22,7 +22,7 @@ Toy Package David
 
 
 
-Toy package to test functionalities
+Toy package to test functionalities and the tutorial...
 
 
 * Free software: GNU General Public License v3
