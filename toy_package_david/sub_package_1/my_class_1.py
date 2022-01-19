@@ -48,7 +48,7 @@ class MyClass1:
 
     #: This is a nice constant.
     A_NICE_CONSTANT = 42
-    #:
+    #: This is another nice constant.
     A_VERY_NICE_CONSTANT = 51
 
     def __init__(self, a: float, b: float):
